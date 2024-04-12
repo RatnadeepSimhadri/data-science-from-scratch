@@ -35,3 +35,6 @@ print("Average Connections is {}".format(total_connections/len(users)))
 
 
 num_of_friends_by_id = [(user["id"],num_of_friends(user)) for user in users]
+
+# Data Scientists You may know 
+# Vanilla Attempt to figuring out friends of friends 
